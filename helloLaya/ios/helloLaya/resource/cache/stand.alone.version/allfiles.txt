@@ -1,0 +1,6 @@
+/helloLaya.max.html
+/helloLaya.max.js
+/index.html
+/res/icon.png
+/test.max.html
+/test.max.js
